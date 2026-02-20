@@ -4,7 +4,7 @@
 
 
 
-### About Me  
+## About Me  
 
 ---
 
@@ -12,11 +12,11 @@
 -  ⚙️ Interested in **ML, Systems, Frontend Development**
 -  🏆 Currently working on projects centered around real-world impact
 
-### Tech Stack  
+## Tech Stack  
 
 ---
 
-#### Languages
+### Languages
 <div class="languages">
   <img src="assets/techstack/python_logo.png" alt="Python" style="width:40px;">
   <img src="assets/techstack/java_logo.png" alt="Java" style="width:40px;">
@@ -26,7 +26,7 @@
 
 <br>
 
-#### Frameworks / Tools
+### Frameworks / Tools
 <div class="frameworkTools">
   <img src="assets/techstack/react_logo.png" alt="React" style="width:40px;">
   <img src="assets/techstack/next_js_logo.png" alt="Next.js" style="width:40px;">
@@ -36,7 +36,7 @@
   <img src="assets/techstack/github_logo.png" alt="Github" style="width:40px;">
 </div>
 
-### Connect With Me
+## Connect With Me
 
 ---
 
