@@ -35,9 +35,11 @@
   <img src="assets/techstack/git_logo.png" alt="Git" style="width:40px;">
   <img src="assets/techstack/github_logo.png" alt="Github" style="width:40px;">
 </div>
----
 
 ### Connect With Me
+
+---
+
 <a href="mailto:mattheweng860@gmail.com">
     <img src="assets/socials/gmail_logo.png" alt="Gmail" style="width:40px;">
 </a>
