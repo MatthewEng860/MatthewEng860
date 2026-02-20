@@ -17,21 +17,24 @@
 ---
 
 #### Languages
-<img src="assets/techstack/python_logo.png" alt="Python" style="width:40px;">
-<img src="assets/techstack/java_logo.png" alt="Java" style="width:40px;">
-<img src="assets/techstack/javascript_logo.png" alt="Javascript" style="width:40px;">
-<img src="assets/techstack/typescript_logo.png" alt="Typescript" style="width:41px;">
+<div class="languages">
+  <img src="assets/techstack/python_logo.png" alt="Python" style="width:40px;">
+  <img src="assets/techstack/java_logo.png" alt="Java" style="width:40px;">
+  <img src="assets/techstack/javascript_logo.png" alt="Javascript" style="width:40px;">
+  <img src="assets/techstack/typescript_logo.png" alt="Typescript" style="width:41px;">
+</div>
 
 <br>
 
 #### Frameworks / Tools
-<img src="assets/techstack/react_logo.png" alt="React" style="width:40px;">
-<img src="assets/techstack/next_js_logo.png" alt="Next.js" style="width:40px;">
-<img src="assets/techstack/node_js.png" alt="Node.js" style="width:40px;">
-<img src="assets/techstack/supabase_logo.png" alt="Supabase" style="width:40px;">
-<img src="assets/techstack/git_logo.png" alt="Git" style="width:40px;">
-<img src="assets/techstack/github_logo.png" alt="Github" style="width:40px;">
-
+<div class="frameworkTools">
+  <img src="assets/techstack/react_logo.png" alt="React" style="width:40px;">
+  <img src="assets/techstack/next_js_logo.png" alt="Next.js" style="width:40px;">
+  <img src="assets/techstack/node_js.png" alt="Node.js" style="width:40px;">
+  <img src="assets/techstack/supabase_logo.png" alt="Supabase" style="width:40px;">
+  <img src="assets/techstack/git_logo.png" alt="Git" style="width:40px;">
+  <img src="assets/techstack/github_logo.png" alt="Github" style="width:40px;">
+</div>
 ---
 
 ### Connect With Me
